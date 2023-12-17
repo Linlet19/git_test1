@@ -7,6 +7,7 @@ public class MainSection {
 
 		System.out.println("This is git test original");
 		System.out.println("This is nano editor test");
+		System.out.println("This is remote master test");
 	}
 
 }
